@@ -1,0 +1,33 @@
+Name : MFS
+Headline : Back end Developer
+
+
+Basic Information
+Location : URAN
+Website : sobi.com
+Salary Per Hour : 30000
+Age : 20
+Contact Number : 
+Email Address : sobi@mail.com
+
+
+Social Media
+Facebook URL : fbfb.com
+Twitter URL : twitter
+Google URL : gmail.gmail.com
+GitHub URL : MSobiya
+
+
+Education Details:
+Degree : Diploma
+Major : Computer Engg
+Institute : ARKP
+Year Of Addmission : 2013
+Date of Leave : 2016
+
+
+Work Experience Deatils
+Company name : NA
+Possition : NA
+Date Of Joining : NA
+Date Of Resining : NA

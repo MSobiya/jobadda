@@ -200,7 +200,7 @@ $_SESSION['l_pwd'] = $l_pwd;
 $_SESSION['user'] = $user;
 
 
-/*if(!$con)
+if(!$con)
 {
   echo  "Error connecting to database";
 }
@@ -241,10 +241,9 @@ elseif($rows==1 and $user=='Student')
 
 else{
   echo "invalid username/password";
-}*/
 }
-	if($l_uname == 'admin' and $l_pwd == 'admin')
-		header("Location:Admin_home.php");
+}
+
 /* close connection */
 mysqli_close($conn);
 ?>
